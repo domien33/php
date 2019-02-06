@@ -1,0 +1,28 @@
+[25-Jan-2019 16:25:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\EventCategory' not found in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php on line 8
+[25-Jan-2019 16:32:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\EventCategory' not found in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php on line 8
+[25-Jan-2019 16:41:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\EventCategory' not found in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php on line 8
+[25-Jan-2019 16:42:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\EventCategory' not found in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php on line 8
+[25-Jan-2019 16:43:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\EventCategory' not found in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php on line 8
+[25-Jan-2019 16:46:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\EventCategory' not found in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php on line 8
+[25-Jan-2019 16:49:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\EventCategory' not found in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/vendor/modernways/fricfrac/src/test/test.php on line 8

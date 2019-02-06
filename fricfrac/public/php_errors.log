@@ -1,0 +1,558 @@
+[26-Jan-2019 14:22:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:22:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(32): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:22:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 4
+[26-Jan-2019 14:23:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:23:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(32): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:23:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 4
+[26-Jan-2019 14:24:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:24:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(32): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:24:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 4
+[26-Jan-2019 14:25:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:25:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(32): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:25:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 4
+[26-Jan-2019 14:25:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:27:39 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\src\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:27:40 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\src\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(32): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:27:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 4
+[26-Jan-2019 14:27:50 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\src\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:29:14 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\src\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:29:16 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\src\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(32): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:29:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 4
+[26-Jan-2019 14:29:29 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\src\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:34:57 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:35:01 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(32): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:35:13 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 4
+[26-Jan-2019 14:35:15 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:48:07 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:48:38 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:48:42 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:48:43 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(32): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 4
+[26-Jan-2019 14:49:04 UTC] PHP Fatal error:  Uncaught Error: Class 'modernWays\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:55:21 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:55:23 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(32): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 14:55:32 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 4
+[26-Jan-2019 14:55:41 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:21:01 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:21:03 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(32): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:21:13 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 4
+[26-Jan-2019 22:21:14 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:30:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL), expecting end of file in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:30:15 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL), expecting end of file in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:37:11 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:37:14 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:37:23 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 5
+[26-Jan-2019 22:37:27 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:43:00 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:43:02 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:46:13 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:46:57 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:47:21 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:47:23 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:48:30 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:49:32 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:50:19 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:50:52 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:52:55 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:53:24 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:55:54 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:56:34 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:56:47 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 5
+[26-Jan-2019 22:57:04 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:57:12 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 22:58:48 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 23:03:06 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 23:03:07 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 23:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 5
+[26-Jan-2019 23:03:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Event' not found in /home/ubuntu/workspace/fric-frac/public/Event/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Event/Index.php(17): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Event/ReadingAll.php on line 2
+[26-Jan-2019 23:08:51 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 23:10:19 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 23:11:17 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/Index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/Index.php on line 19
+[26-Jan-2019 23:56:54 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 23:56:57 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 23:57:35 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 23:57:40 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 23:58:07 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[26-Jan-2019 23:58:38 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:07:36 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:07:47 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:09:13 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:09:24 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:09:41 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:09:44 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:09:49 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:09:55 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 5
+[27-Jan-2019 00:09:59 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:11:58 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:12:00 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:12:12 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:15:34 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:16:54 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:16:54 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:17:31 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:17:33 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:17:37 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:17:39 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:17:40 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:17:41 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:17:45 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:17:57 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:18:06 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:19:32 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:23:05 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:24:01 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:24:39 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:25:20 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:25:40 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:26:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:3
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 3
+[27-Jan-2019 00:26:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:28:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php(33): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 00:28:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ModernWays\FricFrac\Dal\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/fric-frac/public/Country/Index.php(18): include()
+#1 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/ReadingAll.php on line 2
+[27-Jan-2019 11:03:43 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 5
+[27-Jan-2019 11:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 5
+[27-Jan-2019 11:04:48 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fricfrac\Model\Country' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 5
+[27-Jan-2019 11:05:38 UTC] PHP Fatal error:  Uncaught Error: Class 'modernways\fric' not found in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/fric-frac/public/Country/InsertingOne.php on line 5
